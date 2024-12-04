@@ -1,0 +1,11 @@
+{
+  "name": "authentication_authorization_and_rbac",
+  "version": "1.0.0",
+  "description": "Authentication, Authorization, and Role-Based Access Control (RBAC) using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
